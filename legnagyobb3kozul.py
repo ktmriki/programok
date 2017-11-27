@@ -6,7 +6,7 @@ if szam1 > szam2 and szam1 > szam3:
     print("A legnagyobb szám: ", szam1)
 
 elif szam2 > szam1 and szam2 > szam3:
-    print("A legnagyobb szám: ",szam2)
+    print("A legnagyobb szám: ", szam2)
 
 else:
     print("A legnagyobb szám: ", szam3)
